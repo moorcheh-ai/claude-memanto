@@ -1,8 +1,10 @@
 <p align="center">
-  <img src="assets/logo.svg" alt="MEMANTO" width="72" height="72">
+  <img src="assets/logo.svg" alt="MEMANTO" width="72" height="72" align="middle">
+  &nbsp;&nbsp;<b>×</b>&nbsp;&nbsp;
+  <img src="assets/claude-code.svg" alt="Claude Code" width="72" height="72" align="middle">
 </p>
 
-<h1 align="center">MEMANTO for Claude Code</h1>
+<h1 align="center">MEMANTO × Claude Code</h1>
 
 <p align="center">
   <strong>Persistent memory for Claude Code — store decisions, recall them semantically,<br>
